@@ -1,0 +1,33 @@
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\bin\Debug\DB1Project.exe.config
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\bin\Debug\DB1Project.exe
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\bin\Debug\DB1Project.pdb
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\obj\Debug\DB1Project.csprojResolveAssemblyReference.cache
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\obj\Debug\DB1Project.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\obj\Debug\DB1Project.csproj.GenerateResource.Cache
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\obj\Debug\DB1Project.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\obj\Debug\DB1Project.exe
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\obj\Debug\DB1Project.pdb
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\obj\Debug\DB1Project.mainForm.resources
+C:\Users\bilal\OneDrive\Documents\Visual Studio 2017\Projects\DB1Project\DB1Project\obj\Debug\DB1Project.addForm.resources
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\bin\Debug\DB1Project.exe.config
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\bin\Debug\DB1Project.exe
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\bin\Debug\DB1Project.pdb
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\obj\Debug\DB1Project.csprojResolveAssemblyReference.cache
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\obj\Debug\DB1Project.addForm.resources
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\obj\Debug\DB1Project.mainForm.resources
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\obj\Debug\DB1Project.Properties.Resources.resources
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\obj\Debug\DB1Project.csproj.GenerateResource.Cache
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\obj\Debug\DB1Project.csproj.CoreCompileInputs.cache
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\obj\Debug\DB1Project.exe
+D:\Bilal\YPU\Teaching\2019-2\DB1\Project\DB1Project\DB1Project\DB1Project\obj\Debug\DB1Project.pdb
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\bin\Debug\DB1Project.exe.config
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\bin\Debug\DB1Project.exe
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\bin\Debug\DB1Project.pdb
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\obj\Debug\DB1Project.csprojAssemblyReference.cache
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\obj\Debug\DB1Project.addForm.resources
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\obj\Debug\DB1Project.mainForm.resources
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\obj\Debug\DB1Project.Properties.Resources.resources
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\obj\Debug\DB1Project.csproj.GenerateResource.cache
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\obj\Debug\DB1Project.csproj.CoreCompileInputs.cache
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\obj\Debug\DB1Project.exe
+C:\Users\hmood\Desktop\ddd\DB1Project\DB1Project\obj\Debug\DB1Project.pdb
